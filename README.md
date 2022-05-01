@@ -6,6 +6,6 @@ we should able to know who comes under which peron
  
                          no of classes :
                                         1: for employe information
-                                        2: pull and push information
+                                        2: pull, push and  update  information
                                         3: searching classs
                                         4:
